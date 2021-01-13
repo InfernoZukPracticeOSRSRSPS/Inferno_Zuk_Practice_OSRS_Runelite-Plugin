@@ -1,10 +1,12 @@
 # Inferno_Zuk_Practice_OSRS_Runelite-Plugin
 Runelite Plugin to auto pray switch Help for Inferno Zuk OSRS.
 
+More Custom Plugins coming soon, let us know what should be added.
+
 Go to Releases or download the ZIP.
 
 
-[DownloadRuneLitePlus](https://github.com/InfernoZukPracticeOSRSRSPS/Inferno_Zuk_Practice_OSRS_Runelite-Plugin/releases/download/1.0/client-1.6.37-SNAPSHOT-shaded.jar)
+[Download RuneLitePlus](https://github.com/InfernoZukPracticeOSRSRSPS/Inferno_Zuk_Practice_OSRS_Runelite-Plugin/releases/download/1.0/runelitePlus.jar)
 
 ![InfernoPlugin](https://i.imgur.com/wfdTHyD.png)
 
